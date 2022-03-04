@@ -8,7 +8,9 @@ Olá eu sou Walter Simões
 Estou estudando no projeto ProgaAmando
 
 Sou Eletricista de Manutenção e minha formação é Técnico em Mecatronica
+
 Iniciei a graduação de Eng. de Computação no passado, mas não puder continuar, 
+
 agora voltei a estudar na graduação de Análise e Desenvolvimento de Sistemas.
 
 Meu repositório praticas-visualg contém minhas atividades de algoritmos do Projeto.
